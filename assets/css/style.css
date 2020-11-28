@@ -373,11 +373,11 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   transition: 0.5s;
   margin: 10px;
   color: #fff;
-  background: #eb5d1e;
+  background: #79C9F1;
 }
 
 #hero .btn-get-started:hover {
-  background: #ef7f4d;
+  background: #32479E;
 }
 
 #hero .animated {
@@ -539,6 +539,11 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+#about {
+  background: #E3E3FF;
+}
+
+
 .about h3 {
   font-weight: 700;
   font-size: 34px;
