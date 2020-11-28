@@ -129,12 +129,12 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #eb5d1e;
+  color: #32479E;
   text-decoration: none;
 }
 
 .nav-menu .get-started a {
-  background: #eb5d1e;
+  background: #79C9F1;
   color: #fff;
   border-radius: 50px;
   margin: 0 15px;
@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .nav-menu .get-started a:hover {
-  background: #ee7843;
+  background: #32479E;
   color: #fff;
 }
 
@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .mobile-nav .get-started a {
-  background: #eb5d1e;
+  background: #79C9F1;
   color: #fff;
   border-radius: 50px;
   margin: 15px;
@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .mobile-nav .get-started a:hover {
-  background: #ee7843;
+  background: #32479E;
   color: #fff;
 }
 
