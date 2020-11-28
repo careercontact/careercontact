@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #eb5d1e;
+  color: #79C9F1;
 }
 
 a:hover {
-  color: #ef7f4d;
+  color: #32479E;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   border-radius: 3px;
   right: 15px;
   bottom: 15px;
-  background: #eb5d1e;
+  background: #79C9F1;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 .back-to-top:hover {
   color: #fff;
-  background: #ee7843;
+  background: #32479E;
   transition: background 0.2s ease-in-out;
 }
 
@@ -344,8 +344,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #hero {
   width: 100%;
   height: 70vh;
-  background: #fef8f5;
-  border-bottom: 2px solid #fcebe3;
+  background: #E9F1FE;
   margin: 72px 0 -72px 0;
 }
 
@@ -354,7 +353,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #4e4039;
+  color: #32479E;
 }
 
 #hero h2 {
