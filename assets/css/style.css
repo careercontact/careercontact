@@ -253,7 +253,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #f39e7a;
+  color: #32479E;
   text-decoration: none;
 }
 
@@ -652,7 +652,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #eb5d1e;
+  color: #79C9F1;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -697,7 +697,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #eb5d1e;
+  color: #79C9F1;
   margin: 0 4px;
   font-size: 18px;
   line-height: 1;
@@ -717,7 +717,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: #eb5d1e;
+  background: #79C9F1;
   color: #fff;
 }
 
@@ -789,7 +789,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #eb5d1e !important;
+  background-color: #79C9F1 !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -966,7 +966,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #eb5d1e;
+  color: #79C9F1;
 }
 
 .team .member .social i {
