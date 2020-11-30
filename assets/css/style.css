@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     text-align: center;
   }
   #hero .hero-img img {
-    width: 50%;
+    width: 35%;
   }
 }
 
@@ -417,13 +417,13 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     margin-bottom: 30px;
   }
   #hero .hero-img img {
-    width: 70%;
+    width: 55%;
   }
 }
 
 @media (max-width: 575px) {
   #hero .hero-img img {
-    width: 80%;
+    width: 65%;
   }
 }
 
