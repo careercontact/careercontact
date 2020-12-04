@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #eb5d1e;
+  color: #79C9F1;
 }
 
 .nav-menu .drop-down > a:after {
@@ -423,7 +423,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 @media (max-width: 575px) {
   #hero .hero-img img {
-    width: 65%;
+    display: none
   }
 }
 
