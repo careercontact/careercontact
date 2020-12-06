@@ -594,13 +594,14 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background-color: #fef5f1;
+  background-color: #32479E;
   min-height: 40px;
 }
 
 .breadcrumbs h2 {
   font-size: 24px;
-  font-weight: 300;
+  font-weight: 500;
+  color: #FFFFFF
 }
 
 .breadcrumbs ol {
@@ -614,12 +615,12 @@ section {
 
 .breadcrumbs ol li + li {
   padding-left: 10px;
+  color: #FFFFFF;
 }
 
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #6c757d;
   content: "/";
 }
 
@@ -721,6 +722,23 @@ section {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
+}
+.services .btn-more {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 3px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  background: #79C9F1;
+}
+
+.services .btn-more:hover {
+  background: #32479E;
 }
 
 /*--------------------------------------------------------------
@@ -1259,6 +1277,24 @@ section {
   }
 }
 
+.contact .btn-mail {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 3px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  background: #79C9F1;
+}
+
+.contact .btn-mail:hover {
+  background: #32479E;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
@@ -1267,7 +1303,7 @@ section {
   padding: 0 0 30px 0;
   color: #212529;
   font-size: 14px;
-  background: #fef8f5;
+  background: #32479E;
 }
 
 #footer .footer-newsletter {
@@ -1418,6 +1454,7 @@ section {
 #footer .copyright {
   text-align: center;
   float: left;
+  color: #FFFFFF;
 }
 
 #footer .credits {
