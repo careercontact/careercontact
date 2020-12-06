@@ -1128,6 +1128,45 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Clients-sme
+--------------------------------------------------------------*/
+.clients-sme .owl-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.clients-sme .owl-item img {
+  height: 80%;
+  opacity: 0.5;
+  transition: 0.3s;
+}
+
+.clients-sme .owl-item img:hover {
+  opacity: 1;
+}
+
+.clients-sme .owl-nav, .clients .owl-dots {
+  margin-top: 5px;
+  text-align: center;
+}
+
+.clients-sme .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #FFFFFF !important;
+}
+
+.clients-sme .owl-dot.active {
+  background-color: #32479E !important;
+}
+
+
+/*--------------------------------------------------------------
 # Contact Us
 --------------------------------------------------------------*/
 .contact .info {
