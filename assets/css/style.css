@@ -1481,3 +1481,23 @@ section {
     padding: 3px 0;
   }
 }
+
+/*--------------------------------------------------------------
+# Profile Page
+--------------------------------------------------------------*/
+
+.navbar-offset {
+  padding-top: 80px;
+}
+
+.profile-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.badge-img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
